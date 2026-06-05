@@ -96,6 +96,15 @@ Part of the SuperInstance ternary crate family. Combines ideas from:
 - `ternary-frontier` (territory as tradeable resource)
 - `ternary-archive` (historical trade data stored as scrolls)
 
+## See Also
+
+- **ternary-econ** — Economic primitives for ternary resource systems
+- **ternary-auction** — Auction mechanisms with ternary bidding
+- **ternary-game-theory** — Game theory with ternary strategies
+- **ternary-scoring** — Scoring and ranking in ternary systems
+- **ternary-trust** — Trust and reputation with ternary signals
+- **ternary-voting** — Voting and consensus with ternary ballots
+
 ## License
 
 MIT
